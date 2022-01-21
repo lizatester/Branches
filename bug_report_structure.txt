@@ -1,0 +1,14 @@
+Structure of bug report:
+ID/name
+Description/summary(must have)
+Steps to reproduce(must have)
+Environment
+Console logs
+Source URL
+Visual proof, Attachments
+Expected result(must have)
+Actual result(must have)
+Severity(must have)
+Priotity
+Assigned to
+Author
