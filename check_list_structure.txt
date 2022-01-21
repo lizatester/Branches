@@ -1,0 +1,15 @@
+Checklist structure:
+1.Title:
+Project Description
+Checklist id
+Sourse url
+Enviroment
+Release version/release number
+Test dates
+Author
+2.Subtitle
+The name of the functionality or a separate element of the product
+3.Brief description of checking
+Short description of test cases
+
+
